@@ -29,5 +29,7 @@ class AdvancedBitExchange
 
         Console.WriteLine(num);
         Console.WriteLine(Convert.ToString(num, 2).PadLeft(32, '0'));
+
+        Console.WriteLine(Convert.ToString(num, 2).PadLeft(32, '0'));
     }
 }
