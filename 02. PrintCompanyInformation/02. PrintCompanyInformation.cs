@@ -9,9 +9,9 @@ class PrintCompanyInformation
         Console.WriteLine("Addres: ");
         string address = Console.ReadLine();
         Console.WriteLine("Phone Number: ");
-        var telNum = Console.ReadLine();
+        string telNum = Console.ReadLine();
         Console.WriteLine("Fax Number: ");
-        var faxNum = Console.ReadLine();
+        string faxNum = Console.ReadLine();
         Console.WriteLine("Web Site: ");
         string webSite = Console.ReadLine();
         Console.WriteLine("Manager First Name: ");
@@ -21,7 +21,7 @@ class PrintCompanyInformation
         Console.WriteLine("Manager Age: ");
         int mngrAge = int.Parse(Console.ReadLine());
         Console.WriteLine("Manager Telephone Number: ");
-        var mngrTelNum = Console.ReadLine();
+        string mngrTelNum = Console.ReadLine();
 
         Console.WriteLine("Company Name: " + compName);
         Console.WriteLine("Adress: " + address);
