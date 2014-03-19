@@ -20,7 +20,7 @@ class FormattingNumbers
         string numAHex = Convert.ToString(numA, 16).PadRight(10, ' ');
         numAHex = numAHex.ToUpper();
         string numABin = Convert.ToString(numA, 2).PadLeft(10, '0');
-        Console.WriteLine("{0}{1}{0}{2}{0}{3,10:0.##}{0}{4,-10:0.#00}{0}", symbol, numAHex, numABin, numB, numC);
+        Console.WriteLine("{0}{1}{0}{2}{0}{3,10:0.##}{0}{4,-10:0.000}{0}", symbol, numAHex, numABin, numB, numC);
     }
 }
 
