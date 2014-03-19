@@ -17,28 +17,19 @@ class FibonacciNumbers
         {
             Console.Write(firstFibNum + ".");
             return;
-        }       
-        if (members == 2)
-        {
-            Console.Write(firstFibNum + ", " + secondFibNum + ".");
-            return;
         }
-        Console.Write(firstFibNum + ", " + secondFibNum + ", ");
+
+        Console.Write(firstFibNum + ", " + secondFibNum);
+
         for (int i = 2; i < members; i++)
         {
             nextFibNum = firstFibNum + secondFibNum;
             firstFibNum = secondFibNum;
             secondFibNum = nextFibNum;
+            Console.Write(", " + nextFibNum);
 
-            if (i < members - 1)
-            {
-                Console.Write(nextFibNum + ", ");
-            }
-            else
-            {
-                Console.Write(nextFibNum + ".");
-            }
         }
+        Console.Write(".");
         Console.WriteLine();
     }
 }
