@@ -6,25 +6,15 @@ class SumOfFiveNumbers
     {
         double sum = 0;
         Console.WriteLine("Please, Enter 5 numbers, separated by a space: ");
-        string nums = Console.ReadLine();
+        string[] nums = Console.ReadLine().Split(' ');
+        double temp = 0;
 
-        foreach (int element in nums)
+        foreach (string element in nums)
         {
-            //double temp = 0;
-            //try
-            //{
-            //    temp = Convert.ToDouble(element);
-            //    sum += temp;
-            //}
-            //catch (FormatException)
-            //{
-            //    temp = 0;
-            //}
-            //catch (OverflowException)
-            //{
-            //    temp = 0;
-            //}
+                temp = Convert.ToDouble(element);
+                sum += temp;
         }
-        Console.WriteLine(sum);
+        Console.Write(sum);
+        Console.WriteLine();
     }
 }
