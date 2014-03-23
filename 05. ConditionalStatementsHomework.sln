@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. BeerTime", "10. BeerTim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. NumberAsWords", "11. NumberAsWords\11. NumberAsWords.csproj", "{0D69BE9E-DE20-4C8E-BDC3-E4DBC1F01C3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. FindingZeroSubset", "12. FindingZeroSubset\12. FindingZeroSubset.csproj", "{B14D4B21-3FD5-4BDF-AFCD-AB8A7097C85F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{0D69BE9E-DE20-4C8E-BDC3-E4DBC1F01C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D69BE9E-DE20-4C8E-BDC3-E4DBC1F01C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D69BE9E-DE20-4C8E-BDC3-E4DBC1F01C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14D4B21-3FD5-4BDF-AFCD-AB8A7097C85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14D4B21-3FD5-4BDF-AFCD-AB8A7097C85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14D4B21-3FD5-4BDF-AFCD-AB8A7097C85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14D4B21-3FD5-4BDF-AFCD-AB8A7097C85F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
