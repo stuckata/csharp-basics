@@ -53,7 +53,12 @@ class NumberAsWords
                     Console.Write("nine hundred");
                     break;
             }
-            if (decimals != 0 && units != 0)
+            if (decimals == 0 && units == 0)
+            {
+                Console.WriteLine();
+                return;
+            }
+            else
             {
                 Console.Write(" and ");
             }
@@ -127,6 +132,8 @@ class NumberAsWords
                     Console.Write("nineteen");
                     break;
             }
+            Console.WriteLine();
+            return;
         }
 
         if (decimals == 0 || units != 0)
