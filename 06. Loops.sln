@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. NumbersFromOneToN", "01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. NumbersNotDivisibleByThreeAndSeven", "02. NumbersNotDivisibleByThreeAndSeven\02. NumbersNotDivisibleByThreeAndSeven.csproj", "{14E7815C-10B2-4468-BD12-BF42B14F5EB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. MinMaxSumAndAverageOfNNumbers", "03. MinMaxSumAndAverageOfNNumbers\03. MinMaxSumAndAverageOfNNumbers.csproj", "{66EE559E-7626-40ED-BCB6-6ED6AE6D492E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. PrintingAFullDeckOfCards", "04. PrintingAFullDeckOfCards\04. PrintingAFullDeckOfCards.csproj", "{900E997F-AAAB-4949-B774-B8C8940C73E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{14E7815C-10B2-4468-BD12-BF42B14F5EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14E7815C-10B2-4468-BD12-BF42B14F5EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14E7815C-10B2-4468-BD12-BF42B14F5EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EE559E-7626-40ED-BCB6-6ED6AE6D492E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EE559E-7626-40ED-BCB6-6ED6AE6D492E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EE559E-7626-40ED-BCB6-6ED6AE6D492E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EE559E-7626-40ED-BCB6-6ED6AE6D492E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900E997F-AAAB-4949-B774-B8C8940C73E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900E997F-AAAB-4949-B774-B8C8940C73E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900E997F-AAAB-4949-B774-B8C8940C73E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900E997F-AAAB-4949-B774-B8C8940C73E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

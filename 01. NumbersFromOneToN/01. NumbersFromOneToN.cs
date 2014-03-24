@@ -12,7 +12,7 @@ class NumbersFromOneToN
         int numN = 0;
         bool isValid = int.TryParse(input, out numN);
 
-        while ((!isValid) || (numN < 0))
+        while ((!isValid) || (numN <= 0))
         {
             Console.WriteLine("The number is invalid! Please enter new one:");
             Console.Write("n = ");
