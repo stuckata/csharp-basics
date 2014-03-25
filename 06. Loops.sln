@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. MinMaxSumAndAverageOfNN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. PrintingAFullDeckOfCards", "04. PrintingAFullDeckOfCards\04. PrintingAFullDeckOfCards.csproj", "{900E997F-AAAB-4949-B774-B8C8940C73E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. CalculatingExponentialEquation", "05. CalculatingExponentialEquation\05. CalculatingExponentialEquation.csproj", "{F54475BC-B302-4CA6-97ED-29DB2A923BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. CalculatingFactorialDivision", "06. CalculatingFactorialDivision\06. CalculatingFactorialDivision.csproj", "{7117C582-7171-41A4-A17E-E1E420AFC751}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{900E997F-AAAB-4949-B774-B8C8940C73E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{900E997F-AAAB-4949-B774-B8C8940C73E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{900E997F-AAAB-4949-B774-B8C8940C73E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54475BC-B302-4CA6-97ED-29DB2A923BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54475BC-B302-4CA6-97ED-29DB2A923BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54475BC-B302-4CA6-97ED-29DB2A923BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54475BC-B302-4CA6-97ED-29DB2A923BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7117C582-7171-41A4-A17E-E1E420AFC751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7117C582-7171-41A4-A17E-E1E420AFC751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7117C582-7171-41A4-A17E-E1E420AFC751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7117C582-7171-41A4-A17E-E1E420AFC751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
