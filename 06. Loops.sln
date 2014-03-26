@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. RandomNumbersInGivenRan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. RandomizingTheNumbersFromOneToN", "12. RandomizingTheNumbersFromOneToN\12. RandomizingTheNumbersFromOneToN.csproj", "{602D1280-7BB3-41FD-9C0F-09003A2E4EF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. ConvertBinaryToDecimalNumber", "13. ConvertBinaryToDecimalNumber\13. ConvertBinaryToDecimalNumber.csproj", "{5437C94A-1F4B-4EA2-B2F7-38D0CAA0954A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{602D1280-7BB3-41FD-9C0F-09003A2E4EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{602D1280-7BB3-41FD-9C0F-09003A2E4EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{602D1280-7BB3-41FD-9C0F-09003A2E4EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5437C94A-1F4B-4EA2-B2F7-38D0CAA0954A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5437C94A-1F4B-4EA2-B2F7-38D0CAA0954A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5437C94A-1F4B-4EA2-B2F7-38D0CAA0954A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5437C94A-1F4B-4EA2-B2F7-38D0CAA0954A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
