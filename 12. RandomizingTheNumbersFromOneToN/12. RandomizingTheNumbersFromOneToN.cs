@@ -20,6 +20,11 @@ class RandomizingTheNumbersFromOneToN
             isValidN = int.TryParse(input, out numN);
         }
 
+        if (numN == 0)
+        {
+            Console.WriteLine("0");
+        }
+
         int[] arrayToN = new int[numN];
         int temp = 0;
 
@@ -27,7 +32,7 @@ class RandomizingTheNumbersFromOneToN
         {
             arrayToN[index] = (index + 1);
         }
-
+     
         Random random = new Random();
         foreach (int index in arrayToN)
         {
