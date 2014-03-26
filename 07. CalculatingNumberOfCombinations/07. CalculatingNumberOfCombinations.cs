@@ -14,10 +14,10 @@ class CalculatingNumberOfCombinations
 
         int numN = 0;
         int numK = 0;
-        int factorialN = 1;
-        int factorialK = 1;
-        int factorialNK = 1;
-        long result = 0u;
+        double factorialN = 1;
+        double factorialK = 1;
+        double factorialNK = 1;
+        double result = 0;
         bool isValidN = int.TryParse(inputN, out numN);
         bool isValidX = int.TryParse(inputK, out numK);
 

@@ -31,16 +31,24 @@ class CalculatingFactorialDivision
             isValidX = int.TryParse(inputK, out numK);
         }
 
+        // another solution
+
+        //for (int i = 1; i <= numN; i++) 
+        //{
+        //    factorialN *= i;
+        //    if (i <= numK)
+        //    {
+        //        factorialK *= i;
+        //    }
+        //}
+
         for (int i = 1; i <= numN; i++)
         {
+            if ( i > numK)
             factorialN *= i;
-            if (i <= numK)
-            {
-                factorialK *= i;
-            }
         }
-        calculation = factorialN / factorialK;
-        Console.WriteLine("n! / k! = {0 : 0.##}", calculation);
+        //calculation = factorialN / factorialK;
+        Console.WriteLine("n! / k! = {0 : 0.##}", factorialN); // calculation if the other solution is used
     }
 }
 
