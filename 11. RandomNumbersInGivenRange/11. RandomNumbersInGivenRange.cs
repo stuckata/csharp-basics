@@ -37,7 +37,7 @@ class RandomNumbersInGivenRange
         Random random = new Random();
 
         for (int i = 0; i < numN; i++)
-        {        
+        {           
             int randomInt = random.Next(numMin, numMax);
             Console.Write(randomInt + " ");
         }

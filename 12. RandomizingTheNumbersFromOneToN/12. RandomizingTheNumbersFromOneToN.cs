@@ -34,16 +34,16 @@ class RandomizingTheNumbersFromOneToN
         }
      
         Random random = new Random();
-        foreach (int index in arrayToN)
+        for (int index = 0; index < arrayToN.Length; index++)
         {
-            int randomIndex = random.Next(0, (arrayToN.Length - 1));
-            temp = arrayToN[index - 1];
-            arrayToN[index - 1] = arrayToN[randomIndex];
+            int randomIndex = random.Next(0, (arrayToN.Length));
+            temp = arrayToN[index];
+            arrayToN[index] = arrayToN[randomIndex];
             arrayToN[randomIndex] = temp;
         }
-        foreach (int index in arrayToN)
+        foreach (int element in arrayToN)
         {
-            Console.Write(arrayToN[index - 1] + " ");
+            Console.Write(element + " ");
         }
         Console.WriteLine();
     }
