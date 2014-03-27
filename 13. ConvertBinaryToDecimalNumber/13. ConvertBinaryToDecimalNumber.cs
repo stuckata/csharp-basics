@@ -28,6 +28,7 @@ class ConvertBinaryToDecimalNumber
                 isValid = int.TryParse(input[index], out num);
             }
             result += (num * Math.Pow(2, (input.Length - 1 - index)));
+            result = (long)result;
         }
         Console.WriteLine("In decimal is {1}", input, result);
     }
