@@ -4,7 +4,7 @@ class ConvertBinaryToDecimalNumber
 {
     static void Main()
     {
-        Console.WriteLine("This program convert binary to decimal number");
+        Console.WriteLine("This program convert binary to decimal number.");
         Console.WriteLine("Enter a binary integer to be converted: ");
         string inputS = Console.ReadLine();
         string[] input = new string[inputS.Length];
