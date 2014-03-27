@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. ConvertHexadecimalToDec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. ConvertDecimalToHexadecimalNumber", "16. ConvertDecimalToHexadecimalNumber\16. ConvertDecimalToHexadecimalNumber.csproj", "{BEA94B13-DB6B-4201-9422-FB0D218BA3D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. CalculatingGreatestCommonDivisor", "17. CalculatingGreatestCommonDivisor\17. CalculatingGreatestCommonDivisor.csproj", "{33596491-ED8A-454F-841C-228846D3BF78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{BEA94B13-DB6B-4201-9422-FB0D218BA3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEA94B13-DB6B-4201-9422-FB0D218BA3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEA94B13-DB6B-4201-9422-FB0D218BA3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33596491-ED8A-454F-841C-228846D3BF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33596491-ED8A-454F-841C-228846D3BF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33596491-ED8A-454F-841C-228846D3BF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33596491-ED8A-454F-841C-228846D3BF78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
