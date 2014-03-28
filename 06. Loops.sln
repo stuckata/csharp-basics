@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. CalculatingGreatestComm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. TrailZeroesInNFactoriel", "18. TrailZeroesInNFactoriel\18. TrailZeroesInNFactoriel.csproj", "{F414B6D6-1925-4685-9C8E-D7900FD43BE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19. SpiralMatrixNxN", "19. SpiralMatrixNxN\19. SpiralMatrixNxN.csproj", "{0F47F3EA-E7E3-40BA-9936-7BE8790B76C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{F414B6D6-1925-4685-9C8E-D7900FD43BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F414B6D6-1925-4685-9C8E-D7900FD43BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F414B6D6-1925-4685-9C8E-D7900FD43BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F47F3EA-E7E3-40BA-9936-7BE8790B76C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F47F3EA-E7E3-40BA-9936-7BE8790B76C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F47F3EA-E7E3-40BA-9936-7BE8790B76C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F47F3EA-E7E3-40BA-9936-7BE8790B76C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
