@@ -1,0 +1,13 @@
+﻿Five of the most popular programming languages used today are C, C++, C#, Java and Python. Some short info about each one:
+ - C programming language is developed in 70's of 20th century. It provides the foundations of all the others programming 
+languages on this list. It is mostly used for implementing operating systems and embedded applications.  
+ - C++ programming language is originally designed to be enchanced version of C. C++ is more powerful than C mainly because it
+is object-oriented. This programming language has many applications such as system software, application software, server 
+and client applications, computer games, and many more.
+ - C# is the newest C-style language. Like C++ C# is also object-oriented programming language and is considered to be Microsoft 
+ alternative to Java. C# is used mainly but not only for developing Microsoft and Windows applications.
+ - Java is a class-based object-oriented programming language developed by Sun Microsystems. It is designed to work across 
+ multiple software platforms like Android, Windows, Mac OS X. It is used for Android operating system, mobile games and apps, 
+ web-based content and so on.
+ - Python is a high-level object-oriented programming language. It is widely used for websites and mobile apps and shines with its 
+ compact syntax and readability. It powers the web apps for Instagram and Pinterest and is also used by Google, Yahoo! and NASA.
