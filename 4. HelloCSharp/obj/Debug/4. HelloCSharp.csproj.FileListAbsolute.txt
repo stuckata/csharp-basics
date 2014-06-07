@@ -1,0 +1,4 @@
+c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\4. HelloCSharp\bin\Debug\_4.HelloCSharp.exe
+c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\4. HelloCSharp\bin\Debug\_4.HelloCSharp.pdb
+c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\4. HelloCSharp\obj\Debug\_4.HelloCSharp.exe
+c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\4. HelloCSharp\obj\Debug\_4.HelloCSharp.pdb

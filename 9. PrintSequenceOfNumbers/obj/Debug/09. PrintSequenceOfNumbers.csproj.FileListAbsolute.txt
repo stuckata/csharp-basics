@@ -1,0 +1,5 @@
+c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\9. PrintSequenceOfNumbers\obj\Debug\_9.PrintSequenceOfNumbers.exe
+c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\9. PrintSequenceOfNumbers\obj\Debug\_9.PrintSequenceOfNumbers.pdb
+C:\Users\R2\Documents\Visual Studio 2013\Projects\1. IntroToProgrammingHomeWork\9. PrintSequenceOfNumbers\bin\Debug\_9.PrintSequenceOfNumbers.exe
+C:\Users\R2\Documents\Visual Studio 2013\Projects\1. IntroToProgrammingHomeWork\9. PrintSequenceOfNumbers\bin\Debug\_9.PrintSequenceOfNumbers.pdb
+C:\Users\R2\Documents\Visual Studio 2013\Projects\1. IntroToProgrammingHomeWork\9. PrintSequenceOfNumbers\obj\Debug\09. PrintSequenceOfNumbers.csprojResolveAssemblyReference.cache
