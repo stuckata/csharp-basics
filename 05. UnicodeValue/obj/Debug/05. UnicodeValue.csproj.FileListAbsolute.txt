@@ -1,0 +1,4 @@
+c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\05. UnicodeValue\bin\Debug\_05.UnicodeValue.exe
+c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\05. UnicodeValue\bin\Debug\_05.UnicodeValue.pdb
+c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\05. UnicodeValue\obj\Debug\_05.UnicodeValue.exe
+c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\05. UnicodeValue\obj\Debug\_05.UnicodeValue.pdb

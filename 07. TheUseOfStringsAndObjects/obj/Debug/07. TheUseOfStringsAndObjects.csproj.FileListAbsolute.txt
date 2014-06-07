@@ -1,0 +1,4 @@
+c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\07. TheUseOfStringsAndObjects\bin\Debug\_07.TheUseOfStringsAndObjects.exe
+c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\07. TheUseOfStringsAndObjects\bin\Debug\_07.TheUseOfStringsAndObjects.pdb
+c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\07. TheUseOfStringsAndObjects\obj\Debug\_07.TheUseOfStringsAndObjects.exe
+c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\07. TheUseOfStringsAndObjects\obj\Debug\_07.TheUseOfStringsAndObjects.pdb
