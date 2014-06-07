@@ -1,4 +1,0 @@
-c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\9. PrintSequenceOfNumbers\bin\Debug\_9.PrintSequenceOfNumbers.exe
-c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\9. PrintSequenceOfNumbers\bin\Debug\_9.PrintSequenceOfNumbers.pdb
-c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\9. PrintSequenceOfNumbers\obj\Debug\_9.PrintSequenceOfNumbers.exe
-c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\9. PrintSequenceOfNumbers\obj\Debug\_9.PrintSequenceOfNumbers.pdb

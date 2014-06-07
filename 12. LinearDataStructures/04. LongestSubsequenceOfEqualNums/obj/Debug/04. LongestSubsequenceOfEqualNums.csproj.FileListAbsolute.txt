@@ -1,5 +1,0 @@
-C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\04. LongestSubsequenceOfEqualNums\bin\Debug\_04.LongestSubsequenceOfEqualNums.exe
-C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\04. LongestSubsequenceOfEqualNums\bin\Debug\_04.LongestSubsequenceOfEqualNums.pdb
-C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\04. LongestSubsequenceOfEqualNums\obj\Debug\04. LongestSubsequenceOfEqualNums.csprojResolveAssemblyReference.cache
-C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\04. LongestSubsequenceOfEqualNums\obj\Debug\_04.LongestSubsequenceOfEqualNums.exe
-C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\04. LongestSubsequenceOfEqualNums\obj\Debug\_04.LongestSubsequenceOfEqualNums.pdb

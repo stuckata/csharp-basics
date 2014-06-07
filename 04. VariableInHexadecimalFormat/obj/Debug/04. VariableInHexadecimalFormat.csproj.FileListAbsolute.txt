@@ -1,4 +1,0 @@
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\04. VariableInHexadecimalFormat\bin\Debug\_04.VariableInHexadecimalFormat.exe
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\04. VariableInHexadecimalFormat\bin\Debug\_04.VariableInHexadecimalFormat.pdb
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\04. VariableInHexadecimalFormat\obj\Debug\_04.VariableInHexadecimalFormat.exe
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\04. VariableInHexadecimalFormat\obj\Debug\_04.VariableInHexadecimalFormat.pdb

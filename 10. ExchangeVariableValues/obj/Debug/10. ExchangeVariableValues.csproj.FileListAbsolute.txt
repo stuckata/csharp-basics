@@ -1,4 +1,0 @@
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\10. ExchangeVariableValues\bin\Debug\_10.ExchangeVariableValues.exe
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\10. ExchangeVariableValues\bin\Debug\_10.ExchangeVariableValues.pdb
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\10. ExchangeVariableValues\obj\Debug\_10.ExchangeVariableValues.exe
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\10. ExchangeVariableValues\obj\Debug\_10.ExchangeVariableValues.pdb

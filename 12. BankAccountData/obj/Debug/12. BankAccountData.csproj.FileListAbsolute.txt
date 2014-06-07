@@ -1,4 +1,0 @@
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\12. BankAccountData\bin\Debug\_12.BankAccountData.exe
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\12. BankAccountData\bin\Debug\_12.BankAccountData.pdb
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\12. BankAccountData\obj\Debug\_12.BankAccountData.exe
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\12. BankAccountData\obj\Debug\_12.BankAccountData.pdb

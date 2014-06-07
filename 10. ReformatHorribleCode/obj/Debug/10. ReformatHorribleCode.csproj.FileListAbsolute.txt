@@ -1,4 +1,0 @@
-c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\10. ReformatHorribleCode\bin\Debug\_10.ReformatHorribleCode.exe
-c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\10. ReformatHorribleCode\bin\Debug\_10.ReformatHorribleCode.pdb
-c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\10. ReformatHorribleCode\obj\Debug\_10.ReformatHorribleCode.exe
-c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\10. ReformatHorribleCode\obj\Debug\_10.ReformatHorribleCode.pdb

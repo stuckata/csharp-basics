@@ -1,4 +1,0 @@
-c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\5. PrintMyName\bin\Debug\_5.PrintMyName.exe
-c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\5. PrintMyName\bin\Debug\_5.PrintMyName.pdb
-c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\5. PrintMyName\obj\Debug\_5.PrintMyName.exe
-c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\5. PrintMyName\obj\Debug\_5.PrintMyName.pdb

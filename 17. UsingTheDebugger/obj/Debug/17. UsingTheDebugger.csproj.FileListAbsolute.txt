@@ -1,4 +1,0 @@
-C:\Users\R2\Documents\Visual Studio 2013\Projects\1. IntroToProgrammingHomeWork\17. UsingTheDebugger\bin\Debug\_17.UsingTheDebugger.exe
-C:\Users\R2\Documents\Visual Studio 2013\Projects\1. IntroToProgrammingHomeWork\17. UsingTheDebugger\bin\Debug\_17.UsingTheDebugger.pdb
-C:\Users\R2\Documents\Visual Studio 2013\Projects\1. IntroToProgrammingHomeWork\17. UsingTheDebugger\obj\Debug\_17.UsingTheDebugger.exe
-C:\Users\R2\Documents\Visual Studio 2013\Projects\1. IntroToProgrammingHomeWork\17. UsingTheDebugger\obj\Debug\_17.UsingTheDebugger.pdb

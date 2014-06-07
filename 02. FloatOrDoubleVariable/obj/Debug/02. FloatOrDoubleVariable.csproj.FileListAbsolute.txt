@@ -1,4 +1,0 @@
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\02. FloatOrDoubleVariable\bin\Debug\_02.FloatOrDoubleVariable.exe
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\02. FloatOrDoubleVariable\bin\Debug\_02.FloatOrDoubleVariable.pdb
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\02. FloatOrDoubleVariable\obj\Debug\_02.FloatOrDoubleVariable.exe
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\02. FloatOrDoubleVariable\obj\Debug\_02.FloatOrDoubleVariable.pdb

@@ -1,5 +1,0 @@
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\01. DecalarationOfVariables\bin\Debug\_01.DecalarationOfVariables.exe
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\01. DecalarationOfVariables\bin\Debug\_01.DecalarationOfVariables.pdb
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\01. DecalarationOfVariables\obj\Debug\01. DecalarationOfVariables.csprojResolveAssemblyReference.cache
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\01. DecalarationOfVariables\obj\Debug\_01.DecalarationOfVariables.exe
-c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\01. DecalarationOfVariables\obj\Debug\_01.DecalarationOfVariables.pdb
