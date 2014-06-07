@@ -1,0 +1,14 @@
+﻿The list for most popular IDEs could be made per language they are used for:
+ - C#, C++, within programmars using these languages the most popular environment used is Micorsoft Visual Studio. Visual Studio
+ is considered to be the most popular IDE for C# and C++ because is very powerful and full with features. It includes 
+ a debugger which could be used for applications written in any language supported by Visual Studio. The only downside the 
+ Micorsoft's IDE has is that all editions excluding Express are paid. A free and open source alternative to paid editions of 
+ Visula Studio is SharpDevelop. SharpDevelop include features very similar with the set of Visual Studio and also include 
+ debugger.
+ - Java is one of the most popular if not the most and wide spread programming language these days. The most popular amongst
+Java IDEs are Eclipse, NetBeans and InteliJ IDEA. The basic versions of these Eclipse, NetBeans and InteliJ IDEA feature 
+almost capabilities like auto-complete options, debugger and compiler. NetBeans is considered to be more user friendly, easier to 
+navigate and feature more intuitive interface than Eclipse. On the other hand Eclipse shines when compared to NetBeans when more advanced 
+usage is required, mostly because of the supported huge collection of plugins and add-ons. Compared to Eclipse and NetBeans,  
+InteliJ IDEA boasts a very fast compiler and out of the box tools for Android development. 
+ 

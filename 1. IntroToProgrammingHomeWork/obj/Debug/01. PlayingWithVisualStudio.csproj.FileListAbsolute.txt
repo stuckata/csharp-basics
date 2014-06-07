@@ -1,0 +1,2 @@
+C:\Users\R2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\1. IntroToProgrammingHomeWork\obj\Debug\_1.IntroToProgrammingHomeWork.exe
+C:\Users\R2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\1. IntroToProgrammingHomeWork\obj\Debug\_1.IntroToProgrammingHomeWork.pdb

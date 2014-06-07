@@ -1,0 +1,3 @@
+﻿C# is an object-oriented programming language that enables the developers to build applications that run on .NET Framework and
+.NET Framework is a Microsoft development platform that provides services for building, deploying, and running desktop, web and
+phone apps. 
