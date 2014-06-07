@@ -1,0 +1,2 @@
+c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\8. SquareRootCalculation\obj\Debug\_8.SquareRootCalculation.exe
+c:\users\r2\documents\visual studio 2013\Projects\1. IntroToProgrammingHomeWork\8. SquareRootCalculation\obj\Debug\_8.SquareRootCalculation.pdb

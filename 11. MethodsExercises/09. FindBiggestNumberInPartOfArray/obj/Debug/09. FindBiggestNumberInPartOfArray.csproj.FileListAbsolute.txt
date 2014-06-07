@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\09. FindBiggestNumberInPartOfArray\bin\Debug\_09.FindBiggestNumberInPartOfArray.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\09. FindBiggestNumberInPartOfArray\bin\Debug\_09.FindBiggestNumberInPartOfArray.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\09. FindBiggestNumberInPartOfArray\obj\Debug\09. FindBiggestNumberInPartOfArray.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\09. FindBiggestNumberInPartOfArray\obj\Debug\_09.FindBiggestNumberInPartOfArray.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\09. FindBiggestNumberInPartOfArray\obj\Debug\_09.FindBiggestNumberInPartOfArray.pdb

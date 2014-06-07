@@ -1,0 +1,5 @@
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem04BitCheck\bin\Debug\CSharpBookUnit3Problem04BitCheck.exe
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem04BitCheck\bin\Debug\CSharpBookUnit3Problem04BitCheck.pdb
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem04BitCheck\obj\Debug\CSharpBookUnit3Problem04BitCheck.csprojResolveAssemblyReference.cache
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem04BitCheck\obj\Debug\CSharpBookUnit3Problem04BitCheck.exe
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem04BitCheck\obj\Debug\CSharpBookUnit3Problem04BitCheck.pdb

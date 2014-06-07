@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\07. MatrixOfPalindromes\bin\Debug\_07.MatrixOfPalindromes.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\07. MatrixOfPalindromes\bin\Debug\_07.MatrixOfPalindromes.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\07. MatrixOfPalindromes\obj\Debug\07. MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\07. MatrixOfPalindromes\obj\Debug\_07.MatrixOfPalindromes.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\07. MatrixOfPalindromes\obj\Debug\_07.MatrixOfPalindromes.pdb

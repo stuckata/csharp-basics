@@ -1,0 +1,5 @@
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\02. GetMaxNum\bin\Debug\_02.GetMaxNum.exe
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\02. GetMaxNum\bin\Debug\_02.GetMaxNum.pdb
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\02. GetMaxNum\obj\Debug\02. GetMaxNum.csprojResolveAssemblyReference.cache
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\02. GetMaxNum\obj\Debug\_02.GetMaxNum.exe
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\02. GetMaxNum\obj\Debug\_02.GetMaxNum.pdb

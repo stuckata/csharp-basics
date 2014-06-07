@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\03. SortListWithNumbers\bin\Debug\_03.SortListWithNumbers.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\03. SortListWithNumbers\bin\Debug\_03.SortListWithNumbers.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\03. SortListWithNumbers\obj\Debug\03. SortListWithNumbers.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\03. SortListWithNumbers\obj\Debug\_03.SortListWithNumbers.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\03. SortListWithNumbers\obj\Debug\_03.SortListWithNumbers.pdb

@@ -1,0 +1,4 @@
+c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\09. IsoscelesTriangleOfSymbols\bin\Debug\_09.IsoscelesTriangleOfSymbols.exe
+c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\09. IsoscelesTriangleOfSymbols\bin\Debug\_09.IsoscelesTriangleOfSymbols.pdb
+c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\09. IsoscelesTriangleOfSymbols\obj\Debug\_09.IsoscelesTriangleOfSymbols.exe
+c:\users\r2\documents\visual studio 2013\Projects\02. PrimitiveDataTypesAndVariablesHomework\09. IsoscelesTriangleOfSymbols\obj\Debug\_09.IsoscelesTriangleOfSymbols.pdb

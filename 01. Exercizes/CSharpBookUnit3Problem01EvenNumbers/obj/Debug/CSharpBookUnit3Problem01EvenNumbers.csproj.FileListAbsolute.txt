@@ -1,0 +1,5 @@
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem01EvenNumbers\obj\Debug\CSharpBookUnit3Problem01EvenNumbers.csprojResolveAssemblyReference.cache
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem01EvenNumbers\bin\Debug\CSharpBookUnit3Problem01EvenNumbers.exe
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem01EvenNumbers\bin\Debug\CSharpBookUnit3Problem01EvenNumbers.pdb
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem01EvenNumbers\obj\Debug\CSharpBookUnit3Problem01EvenNumbers.exe
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem01EvenNumbers\obj\Debug\CSharpBookUnit3Problem01EvenNumbers.pdb

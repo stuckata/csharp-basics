@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\08. SumNumbersGivenAsArrays\bin\Debug\_08.SumNumbersGivenAsArrays.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\08. SumNumbersGivenAsArrays\bin\Debug\_08.SumNumbersGivenAsArrays.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\08. SumNumbersGivenAsArrays\obj\Debug\08. SumNumbersGivenAsArrays.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\08. SumNumbersGivenAsArrays\obj\Debug\_08.SumNumbersGivenAsArrays.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\08. SumNumbersGivenAsArrays\obj\Debug\_08.SumNumbersGivenAsArrays.pdb

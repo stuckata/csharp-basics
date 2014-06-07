@@ -1,0 +1,4 @@
+C:\Users\R2\Documents\Visual Studio 2013\Projects\1. IntroToProgrammingHomeWork\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.exe
+C:\Users\R2\Documents\Visual Studio 2013\Projects\1. IntroToProgrammingHomeWork\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.pdb
+C:\Users\R2\Documents\Visual Studio 2013\Projects\1. IntroToProgrammingHomeWork\16. PrintLongSequence\obj\Debug\_16.PrintLongSequence.exe
+C:\Users\R2\Documents\Visual Studio 2013\Projects\1. IntroToProgrammingHomeWork\16. PrintLongSequence\obj\Debug\_16.PrintLongSequence.pdb

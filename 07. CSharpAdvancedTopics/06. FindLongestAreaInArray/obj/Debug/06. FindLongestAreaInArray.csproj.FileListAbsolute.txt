@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\06. FindLongestAreaInArray\bin\Debug\_06.FindLongestAreaInArray.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\06. FindLongestAreaInArray\bin\Debug\_06.FindLongestAreaInArray.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\06. FindLongestAreaInArray\obj\Debug\06. FindLongestAreaInArray.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\06. FindLongestAreaInArray\obj\Debug\_06.FindLongestAreaInArray.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\06. FindLongestAreaInArray\obj\Debug\_06.FindLongestAreaInArray.pdb

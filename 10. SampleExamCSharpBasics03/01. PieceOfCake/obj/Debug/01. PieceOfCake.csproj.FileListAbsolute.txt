@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\10. SampleExamCSharpBasics03\01. PieceOfCake\bin\Debug\_01.PieceOfCake.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\10. SampleExamCSharpBasics03\01. PieceOfCake\bin\Debug\_01.PieceOfCake.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\10. SampleExamCSharpBasics03\01. PieceOfCake\obj\Debug\01. PieceOfCake.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\10. SampleExamCSharpBasics03\01. PieceOfCake\obj\Debug\_01.PieceOfCake.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\10. SampleExamCSharpBasics03\01. PieceOfCake\obj\Debug\_01.PieceOfCake.pdb

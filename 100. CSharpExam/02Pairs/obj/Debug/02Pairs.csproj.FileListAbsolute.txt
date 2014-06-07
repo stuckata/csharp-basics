@@ -1,0 +1,5 @@
+c:\users\stu\documents\visual studio 2013\Projects\100. CSharpExam\02Pairs\bin\Debug\02Pairs.exe
+c:\users\stu\documents\visual studio 2013\Projects\100. CSharpExam\02Pairs\bin\Debug\02Pairs.pdb
+c:\users\stu\documents\visual studio 2013\Projects\100. CSharpExam\02Pairs\obj\Debug\02Pairs.exe
+c:\users\stu\documents\visual studio 2013\Projects\100. CSharpExam\02Pairs\obj\Debug\02Pairs.pdb
+c:\users\stu\documents\visual studio 2013\Projects\100. CSharpExam\02Pairs\obj\Debug\02Pairs.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\07. PrintNumberDigitsInReverseOrder\bin\Debug\_07.PrintNumberDigitsInReverseOrder.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\07. PrintNumberDigitsInReverseOrder\bin\Debug\_07.PrintNumberDigitsInReverseOrder.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\07. PrintNumberDigitsInReverseOrder\obj\Debug\07. PrintNumberDigitsInReverseOrder.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\07. PrintNumberDigitsInReverseOrder\obj\Debug\_07.PrintNumberDigitsInReverseOrder.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\07. PrintNumberDigitsInReverseOrder\obj\Debug\_07.PrintNumberDigitsInReverseOrder.pdb

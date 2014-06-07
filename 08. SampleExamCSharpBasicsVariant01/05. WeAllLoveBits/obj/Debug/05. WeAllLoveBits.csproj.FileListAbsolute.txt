@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\08. SampleExamCSharpBasicsVariant01\05. WeAllLoveBits\bin\Debug\_05.WeAllLoveBits.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\08. SampleExamCSharpBasicsVariant01\05. WeAllLoveBits\bin\Debug\_05.WeAllLoveBits.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\08. SampleExamCSharpBasicsVariant01\05. WeAllLoveBits\obj\Debug\05. WeAllLoveBits.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\08. SampleExamCSharpBasicsVariant01\05. WeAllLoveBits\obj\Debug\_05.WeAllLoveBits.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\08. SampleExamCSharpBasicsVariant01\05. WeAllLoveBits\obj\Debug\_05.WeAllLoveBits.pdb

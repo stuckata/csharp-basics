@@ -1,0 +1,5 @@
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\03. PrintLastDigitAsWords\bin\Debug\_03.PrintLastDigitAsWords.exe
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\03. PrintLastDigitAsWords\bin\Debug\_03.PrintLastDigitAsWords.pdb
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\03. PrintLastDigitAsWords\obj\Debug\03. PrintLastDigitAsWords.csprojResolveAssemblyReference.cache
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\03. PrintLastDigitAsWords\obj\Debug\_03.PrintLastDigitAsWords.exe
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\03. PrintLastDigitAsWords\obj\Debug\_03.PrintLastDigitAsWords.pdb

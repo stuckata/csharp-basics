@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\03. MethodPrimesInGivenRange\bin\Debug\_03.MethodPrimesInGivenRange.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\03. MethodPrimesInGivenRange\bin\Debug\_03.MethodPrimesInGivenRange.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\03. MethodPrimesInGivenRange\obj\Debug\03. MethodPrimesInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\03. MethodPrimesInGivenRange\obj\Debug\_03.MethodPrimesInGivenRange.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\03. MethodPrimesInGivenRange\obj\Debug\_03.MethodPrimesInGivenRange.pdb

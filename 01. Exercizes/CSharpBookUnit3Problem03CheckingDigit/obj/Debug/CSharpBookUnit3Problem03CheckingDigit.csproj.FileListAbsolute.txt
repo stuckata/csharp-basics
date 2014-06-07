@@ -1,0 +1,5 @@
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem03CheckingDigit\bin\Debug\CSharpBookUnit3Problem03CheckingDigit.exe
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem03CheckingDigit\bin\Debug\CSharpBookUnit3Problem03CheckingDigit.pdb
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem03CheckingDigit\obj\Debug\CSharpBookUnit3Problem03CheckingDigit.csprojResolveAssemblyReference.cache
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem03CheckingDigit\obj\Debug\CSharpBookUnit3Problem03CheckingDigit.exe
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem03CheckingDigit\obj\Debug\CSharpBookUnit3Problem03CheckingDigit.pdb

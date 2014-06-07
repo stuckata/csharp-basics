@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\05. CompareVNumbersInArrayPosition\bin\Debug\_05.CompareVNumbersInArrayPosition.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\05. CompareVNumbersInArrayPosition\bin\Debug\_05.CompareVNumbersInArrayPosition.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\05. CompareVNumbersInArrayPosition\obj\Debug\05. CompareVNumbersInArrayPosition.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\05. CompareVNumbersInArrayPosition\obj\Debug\_05.CompareVNumbersInArrayPosition.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\05. CompareVNumbersInArrayPosition\obj\Debug\_05.CompareVNumbersInArrayPosition.pdb

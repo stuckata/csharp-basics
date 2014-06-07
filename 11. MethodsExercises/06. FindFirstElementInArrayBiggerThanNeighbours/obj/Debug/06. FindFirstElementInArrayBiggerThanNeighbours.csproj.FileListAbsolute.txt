@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\06. FindFirstElementInArrayBiggerThanNeighbours\bin\Debug\_06.FindFirstElementInArrayBiggerThanNeighbours.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\06. FindFirstElementInArrayBiggerThanNeighbours\bin\Debug\_06.FindFirstElementInArrayBiggerThanNeighbours.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\06. FindFirstElementInArrayBiggerThanNeighbours\obj\Debug\06. FindFirstElementInArrayBiggerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\06. FindFirstElementInArrayBiggerThanNeighbours\obj\Debug\_06.FindFirstElementInArrayBiggerThanNeighbours.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\06. FindFirstElementInArrayBiggerThanNeighbours\obj\Debug\_06.FindFirstElementInArrayBiggerThanNeighbours.pdb

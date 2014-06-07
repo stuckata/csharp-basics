@@ -1,0 +1,4 @@
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem02DivideBy7And5\bin\Debug\CSharpBookUnit3Problem02DivideBy7And5.exe
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem02DivideBy7And5\bin\Debug\CSharpBookUnit3Problem02DivideBy7And5.pdb
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem02DivideBy7And5\obj\Debug\CSharpBookUnit3Problem02DivideBy7And5.exe
+C:\Users\R2\documents\visual studio 2013\Projects\01. Exercizes\CSharpBookUnit3Problem02DivideBy7And5\obj\Debug\CSharpBookUnit3Problem02DivideBy7And5.pdb

@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\09. SampleExamCSharpBasics02\04. BinaryDigitsCount\bin\Debug\_04.BinaryDigitsCount.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\09. SampleExamCSharpBasics02\04. BinaryDigitsCount\bin\Debug\_04.BinaryDigitsCount.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\09. SampleExamCSharpBasics02\04. BinaryDigitsCount\obj\Debug\04. BinaryDigitsCount.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\09. SampleExamCSharpBasics02\04. BinaryDigitsCount\obj\Debug\_04.BinaryDigitsCount.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\09. SampleExamCSharpBasics02\04. BinaryDigitsCount\obj\Debug\_04.BinaryDigitsCount.pdb

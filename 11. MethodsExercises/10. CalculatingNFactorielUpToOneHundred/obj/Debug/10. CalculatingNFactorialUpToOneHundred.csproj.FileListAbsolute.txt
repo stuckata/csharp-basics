@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\10. CalculatingNFactorielUpToOneHundred\bin\Debug\_10.CalculatingNFactorielUpToOneHundred.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\10. CalculatingNFactorielUpToOneHundred\bin\Debug\_10.CalculatingNFactorielUpToOneHundred.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\10. CalculatingNFactorielUpToOneHundred\obj\Debug\10. CalculatingNFactorialUpToOneHundred.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\10. CalculatingNFactorielUpToOneHundred\obj\Debug\_10.CalculatingNFactorielUpToOneHundred.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\11. MethodsExercises\10. CalculatingNFactorielUpToOneHundred\obj\Debug\_10.CalculatingNFactorielUpToOneHundred.pdb

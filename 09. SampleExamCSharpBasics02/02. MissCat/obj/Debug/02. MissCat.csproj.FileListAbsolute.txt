@@ -1,0 +1,5 @@
+c:\users\stu\documents\visual studio 2013\Projects\09. SampleExamCSharpBasics02\02. MissCat\bin\Debug\_02.MissCat.exe
+c:\users\stu\documents\visual studio 2013\Projects\09. SampleExamCSharpBasics02\02. MissCat\bin\Debug\_02.MissCat.pdb
+c:\users\stu\documents\visual studio 2013\Projects\09. SampleExamCSharpBasics02\02. MissCat\obj\Debug\_02.MissCat.exe
+c:\users\stu\documents\visual studio 2013\Projects\09. SampleExamCSharpBasics02\02. MissCat\obj\Debug\_02.MissCat.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\09. SampleExamCSharpBasics02\02. MissCat\obj\Debug\02. MissCat.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\02. UsingStackPrintReversedNumbers\bin\Debug\_02.UsingStackPrintReversedNumbers.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\02. UsingStackPrintReversedNumbers\bin\Debug\_02.UsingStackPrintReversedNumbers.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\02. UsingStackPrintReversedNumbers\obj\Debug\_02.UsingStackPrintReversedNumbers.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\02. UsingStackPrintReversedNumbers\obj\Debug\_02.UsingStackPrintReversedNumbers.pdb

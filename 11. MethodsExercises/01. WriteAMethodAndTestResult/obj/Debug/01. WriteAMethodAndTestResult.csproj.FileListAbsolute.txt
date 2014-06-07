@@ -1,0 +1,5 @@
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\01. WriteAMethodAndTestResult\bin\Debug\_01.WriteAMethodAndTestResult.exe
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\01. WriteAMethodAndTestResult\bin\Debug\_01.WriteAMethodAndTestResult.pdb
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\01. WriteAMethodAndTestResult\obj\Debug\01. WriteAMethodAndTestResult.csprojResolveAssemblyReference.cache
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\01. WriteAMethodAndTestResult\obj\Debug\_01.WriteAMethodAndTestResult.exe
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\01. WriteAMethodAndTestResult\obj\Debug\_01.WriteAMethodAndTestResult.pdb

@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\09. SampleExamCSharpBasics02\03. ForestRoad\bin\Debug\_03.ForestRoad.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\09. SampleExamCSharpBasics02\03. ForestRoad\bin\Debug\_03.ForestRoad.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\09. SampleExamCSharpBasics02\03. ForestRoad\obj\Debug\03. ForestRoad.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\09. SampleExamCSharpBasics02\03. ForestRoad\obj\Debug\_03.ForestRoad.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\09. SampleExamCSharpBasics02\03. ForestRoad\obj\Debug\_03.ForestRoad.pdb

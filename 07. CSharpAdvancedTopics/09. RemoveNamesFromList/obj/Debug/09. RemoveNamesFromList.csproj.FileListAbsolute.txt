@@ -1,0 +1,1 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\09. RemoveNamesFromList\bin\Debug\_09.RemoveNamesFromList.exe.config

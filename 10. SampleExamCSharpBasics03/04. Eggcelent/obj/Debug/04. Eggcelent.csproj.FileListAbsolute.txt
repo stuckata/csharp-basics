@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\10. SampleExamCSharpBasics03\04. Eggcelent\bin\Debug\_04.Eggcelent.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\10. SampleExamCSharpBasics03\04. Eggcelent\bin\Debug\_04.Eggcelent.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\10. SampleExamCSharpBasics03\04. Eggcelent\obj\Debug\04. Eggcelent.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\10. SampleExamCSharpBasics03\04. Eggcelent\obj\Debug\_04.Eggcelent.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\10. SampleExamCSharpBasics03\04. Eggcelent\obj\Debug\_04.Eggcelent.pdb

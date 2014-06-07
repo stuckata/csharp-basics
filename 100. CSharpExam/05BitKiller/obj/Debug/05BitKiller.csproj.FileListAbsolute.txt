@@ -1,0 +1,1 @@
+c:\users\stu\documents\visual studio 2013\Projects\100. CSharpExam\05BitKiller\bin\Debug\05BitKiller.exe.config

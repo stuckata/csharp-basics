@@ -1,0 +1,4 @@
+c:\users\stu\documents\visual studio 2013\Projects\100. CSharpExam\03House\bin\Debug\03House.exe
+c:\users\stu\documents\visual studio 2013\Projects\100. CSharpExam\03House\bin\Debug\03House.pdb
+c:\users\stu\documents\visual studio 2013\Projects\100. CSharpExam\03House\obj\Debug\03House.exe
+c:\users\stu\documents\visual studio 2013\Projects\100. CSharpExam\03House\obj\Debug\03House.pdb

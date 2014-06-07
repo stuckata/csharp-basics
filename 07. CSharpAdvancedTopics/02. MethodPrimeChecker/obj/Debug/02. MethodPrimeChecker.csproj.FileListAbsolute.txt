@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\02. MethodPrimeChecker\bin\Debug\_02.MethodPrimeChecker.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\02. MethodPrimeChecker\bin\Debug\_02.MethodPrimeChecker.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\02. MethodPrimeChecker\obj\Debug\02. MethodPrimeChecker.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\02. MethodPrimeChecker\obj\Debug\_02.MethodPrimeChecker.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\07. CSharpAdvancedTopics\02. MethodPrimeChecker\obj\Debug\_02.MethodPrimeChecker.pdb

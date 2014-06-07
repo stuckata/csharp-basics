@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\09. SampleExamCSharpBasics02\05. SubsetSums\bin\Debug\_05.SubsetSums.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\09. SampleExamCSharpBasics02\05. SubsetSums\bin\Debug\_05.SubsetSums.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\09. SampleExamCSharpBasics02\05. SubsetSums\obj\Debug\05. SubsetSums.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\09. SampleExamCSharpBasics02\05. SubsetSums\obj\Debug\_05.SubsetSums.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\09. SampleExamCSharpBasics02\05. SubsetSums\obj\Debug\_05.SubsetSums.pdb

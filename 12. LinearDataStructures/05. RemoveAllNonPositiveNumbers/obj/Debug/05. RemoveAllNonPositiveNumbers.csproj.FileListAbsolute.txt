@@ -1,0 +1,5 @@
+C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\05. RemoveAllNonPositiveNumbers\bin\Debug\_05.RemoveAllNonPositiveNumbers.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\05. RemoveAllNonPositiveNumbers\bin\Debug\_05.RemoveAllNonPositiveNumbers.pdb
+C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\05. RemoveAllNonPositiveNumbers\obj\Debug\05. RemoveAllNonPositiveNumbers.csprojResolveAssemblyReference.cache
+C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\05. RemoveAllNonPositiveNumbers\obj\Debug\_05.RemoveAllNonPositiveNumbers.exe
+C:\Users\stu\Documents\Visual Studio 2013\Projects\12. LinearDataStructures\05. RemoveAllNonPositiveNumbers\obj\Debug\_05.RemoveAllNonPositiveNumbers.pdb

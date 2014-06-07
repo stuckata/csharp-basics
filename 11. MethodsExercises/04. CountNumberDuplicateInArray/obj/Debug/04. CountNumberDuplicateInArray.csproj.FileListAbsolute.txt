@@ -1,0 +1,5 @@
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\04. CountNumberDuplicateInArray\bin\Debug\_04.CountNumberDuplicateInArray.exe
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\04. CountNumberDuplicateInArray\bin\Debug\_04.CountNumberDuplicateInArray.pdb
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\04. CountNumberDuplicateInArray\obj\Debug\04. CountNumberDuplicateInArray.csprojResolveAssemblyReference.cache
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\04. CountNumberDuplicateInArray\obj\Debug\_04.CountNumberDuplicateInArray.exe
+c:\users\stu\documents\visual studio 2013\Projects\11. MethodsExercises\04. CountNumberDuplicateInArray\obj\Debug\_04.CountNumberDuplicateInArray.pdb

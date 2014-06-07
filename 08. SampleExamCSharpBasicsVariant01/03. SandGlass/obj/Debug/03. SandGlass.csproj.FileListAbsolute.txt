@@ -1,0 +1,5 @@
+c:\users\stu\documents\visual studio 2013\Projects\08. SampleExamCSharpBasicsVariant01\03. SandGlass\bin\Debug\_03.SandGlass.exe
+c:\users\stu\documents\visual studio 2013\Projects\08. SampleExamCSharpBasicsVariant01\03. SandGlass\bin\Debug\_03.SandGlass.pdb
+c:\users\stu\documents\visual studio 2013\Projects\08. SampleExamCSharpBasicsVariant01\03. SandGlass\obj\Debug\03. SandGlass.csprojResolveAssemblyReference.cache
+c:\users\stu\documents\visual studio 2013\Projects\08. SampleExamCSharpBasicsVariant01\03. SandGlass\obj\Debug\_03.SandGlass.exe
+c:\users\stu\documents\visual studio 2013\Projects\08. SampleExamCSharpBasicsVariant01\03. SandGlass\obj\Debug\_03.SandGlass.pdb

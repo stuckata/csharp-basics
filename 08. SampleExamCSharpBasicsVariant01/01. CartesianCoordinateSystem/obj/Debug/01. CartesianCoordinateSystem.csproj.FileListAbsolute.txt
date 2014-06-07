@@ -1,0 +1,5 @@
+c:\users\stu\documents\visual studio 2013\Projects\08. SampleExamCSharpBasicsVariant01\01. CartesianCoordinateSystem\bin\Debug\_01.CartesianCoordinateSystem.exe
+c:\users\stu\documents\visual studio 2013\Projects\08. SampleExamCSharpBasicsVariant01\01. CartesianCoordinateSystem\bin\Debug\_01.CartesianCoordinateSystem.pdb
+c:\users\stu\documents\visual studio 2013\Projects\08. SampleExamCSharpBasicsVariant01\01. CartesianCoordinateSystem\obj\Debug\01. CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
+c:\users\stu\documents\visual studio 2013\Projects\08. SampleExamCSharpBasicsVariant01\01. CartesianCoordinateSystem\obj\Debug\_01.CartesianCoordinateSystem.exe
+c:\users\stu\documents\visual studio 2013\Projects\08. SampleExamCSharpBasicsVariant01\01. CartesianCoordinateSystem\obj\Debug\_01.CartesianCoordinateSystem.pdb

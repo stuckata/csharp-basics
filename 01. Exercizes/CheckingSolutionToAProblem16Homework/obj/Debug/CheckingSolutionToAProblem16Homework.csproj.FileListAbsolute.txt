@@ -1,0 +1,5 @@
+C:\Users\R2\Documents\Visual Studio 2013\Projects\01. Exercizes\CheckingSolutionToAProblem16Homework\bin\Debug\CheckingSolutionToAProblem16Homework.exe
+C:\Users\R2\Documents\Visual Studio 2013\Projects\01. Exercizes\CheckingSolutionToAProblem16Homework\bin\Debug\CheckingSolutionToAProblem16Homework.pdb
+C:\Users\R2\Documents\Visual Studio 2013\Projects\01. Exercizes\CheckingSolutionToAProblem16Homework\obj\Debug\CheckingSolutionToAProblem16Homework.csprojResolveAssemblyReference.cache
+C:\Users\R2\Documents\Visual Studio 2013\Projects\01. Exercizes\CheckingSolutionToAProblem16Homework\obj\Debug\CheckingSolutionToAProblem16Homework.exe
+C:\Users\R2\Documents\Visual Studio 2013\Projects\01. Exercizes\CheckingSolutionToAProblem16Homework\obj\Debug\CheckingSolutionToAProblem16Homework.pdb
